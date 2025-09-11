@@ -19,7 +19,7 @@ I love building user-friendly interfaces, learning new technologies, and turning
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/your-github)
 - 🎨 &nbsp; I enjoy experimenting with **UI/UX design using Figma**
 - 💬 &nbsp; Ask me about anything **front-end related**
-- 📫 &nbsp; Reach me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/mohamed-ali-4a9150382/))
+- 📫 &nbsp; Reach me on [LinkedIn](https://www.linkedin.com/in/mohamed-ali-4a9150382/)
 - 📚 &nbsp; I enjoy reading tech blogs and keeping up with modern web trends  
 
 <br>
